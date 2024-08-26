@@ -1,0 +1,17 @@
+footer{
+    width: 90%;
+    height: 80px;
+    background-color: black;
+    margin: 0px auto;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 12px #a5a5a5;
+
+}
+
+footer h1{
+    line-height: 80px;
+    color: aquamarine;
+    text-align: center;
+    text-shadow: 6px 6px 6px #a5a5a5;
+}
